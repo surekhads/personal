@@ -88,6 +88,7 @@ background-color: #eaf6f6;;
 .skill1 {
   width: 25%;
   margin: auto 30px auto auto;
+  border-radius: 100%;
 float:left;
 }
 
@@ -132,4 +133,8 @@ padding: 10px;
 .bottom-container {
   background-color: #66bfbf;
   padding: 30px 0 50px;
+}
+
+.surekha-img {
+  border-radius: 100%;
 }
